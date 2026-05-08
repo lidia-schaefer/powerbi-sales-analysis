@@ -10,6 +10,8 @@ Der Fokus liegt auf:
 - Zahlungsstruktur
 - Kundenzufriedenheit
 
+<img width="1330" height="749" alt="Screenshot_project_1_1" src="https://github.com/user-attachments/assets/13fc53da-e6e8-4577-967b-452cbc2df637" />
+
 Das Dashboard ist in vier analytische Bereiche gegliedert: Sales, Logistics, Payments und Feedback.
 ## Inhalt der Dashboards
 
@@ -42,4 +44,4 @@ Analyse der Kundenzufriedenheit:
 - Reaktionszeit auf Kundenfeedback
 - Zusammenhang zwischen Lieferzeit und Bewertung
 
-<img width="1330" height="749" alt="Screenshot_project_1_1" src="https://github.com/user-attachments/assets/13fc53da-e6e8-4577-967b-452cbc2df637" />
+
